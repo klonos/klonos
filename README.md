@@ -3,8 +3,9 @@
 I am...
 - a silly-dad 😅
 - a [Backdrop CMS](https://backdropcms.org) enthusiast, and [member of the Project Management Committee](https://backdropcms.org/leadership#members)
-- a [Salsarian](https://salsadigital.com.au/about/team/greg-netsas)
-- a [GovCMS](https://www.govcms.gov.au) App Support Engineer
+- an [Acquian](https://www.acquia.com)
+- an ex [Salsarian](https://salsa.digital) (but once a Salsarian...)
+- an ex [GovCMS](https://www.govcms.gov.au) App Support Engineer
 
 I try to do my bit, every single day. I learn. I help.
 
