@@ -11,7 +11,11 @@ I am...
 
 I try to do my bit, every single day. I learn. I help.
 
-- **Skills**: PHP / HTML / CSS
+# Skills
+- PHP/HTML/CSS (also fiddling with other web-related technologies and languages)
+- Reviewing and improving UX/UI
+- Finding bugs (the digital kind)
+- Fixing bugs
 - **Super power**: does not require sleep much
 
 ## 💬 Ask me about [Backdrop CMS](https://backdropcms.org)
