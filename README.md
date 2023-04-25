@@ -2,17 +2,19 @@
 
 I am...
 - a silly-dad 😅
-- a [Backdrop CMS](https://backdropcms.org) enthusiast, and [member of the Project Management Committee](https://backdropcms.org/leadership#members)
+- a loyal friend
+- a [Backdrop CMS](https://backdropcms.org) enthusiast and "evangelist", and a [member of its Project Management Committee](https://backdropcms.org/leadership#members)
+- a chronic [Drupal](https://www.drupal.org/) user
 - an [Acquian](https://www.acquia.com)
 - an ex [Salsarian](https://salsa.digital) (but once a Salsarian...)
 - an ex [GovCMS](https://www.govcms.gov.au) App Support Engineer
 
 I try to do my bit, every single day. I learn. I help.
 
-**Skills**: PHP / HTML / CSS
-**Super power**: does not require sleep much
+- **Skills**: PHP / HTML / CSS
+- **Super power**: does not require sleep much
 
-- 💬 Ask me about [Backdrop CMS](https://backdropcms.org)
+## 💬 Ask me about [Backdrop CMS](https://backdropcms.org)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/klonos)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/drupal.svg' alt='drupal' height='40'>](https://www.drupal.org/u/klonos)
