@@ -3,6 +3,7 @@
 I am...
 - a silly-dad 😅
 - a loyal friend
+- a mostly self-taught computer geek
 - a [Backdrop CMS](https://backdropcms.org) enthusiast and "evangelist", and a [member of its Project Management Committee](https://backdropcms.org/leadership#members)
 - a chronic [Drupal](https://www.drupal.org/) user
 - an [Acquian](https://www.acquia.com)
