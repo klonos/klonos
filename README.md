@@ -24,13 +24,17 @@ I try to do my bit, every single day. I learn. I help.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/klonos)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/drupal.svg' alt='drupal' height='40'>](https://www.drupal.org/u/klonos)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=klonos&show_icons=true&count_private=true)  
+<!-- Not working or not idal. Review and add back or find alternatives.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=klonos&show_icons=true&count_private=true)
 
-![GitHub metrics](https://metrics.lecoq.io/klonos)  
+![GitHub metrics](https://metrics.lecoq.io/klonos)
+-->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=klonos)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=klonos)
 
-![Profile views](https://gpvc.arturio.dev/klonos)  
+<!--Not working or not idal. Review and add back or find alternatives.
+![Profile views](https://gpvc.arturio.dev/klonos)
+-->
 
 <!--
 **klonos/klonos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
